@@ -13,6 +13,8 @@ The purpose of this software is to provide a means for a remote technician to su
 
 Generally speaking, you will want to run this software 'as admin', since pulling minidumps and SMART data will almost always require that elevated access.
 
+The code here does not include the creds to actually upload via FTP (This is required functionality and the software will just fail to work if you attempt to run this out of VS.)  If you'd like to use this software, the most recent compiled version can be acquired here:  http://www.kautzman.com/software/kompdiag.exe
+
 Questions, comments and bug reports should go to mkautzm@gmail.com
 
 =-=-=-=-=
