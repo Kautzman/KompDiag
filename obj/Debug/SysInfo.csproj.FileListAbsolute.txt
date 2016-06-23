@@ -1,0 +1,24 @@
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\bin\Debug\sysinfo.exe
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\bin\Debug\sysinfo.pdb
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\obj\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\obj\Debug\sysinfo.main.resources
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\obj\Debug\sysinfo.Properties.Resources.resources
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\obj\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\obj\Debug\sysinfo.exe
+C:\Users\Kautzman\Desktop\SysInfoRecovered\SysInfo\obj\Debug\sysinfo.pdb
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\obj\Debug\sysinfo.exe
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\obj\Debug\sysinfo.pdb
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\obj\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\obj\Debug\sysinfo.main.resources
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\obj\Debug\sysinfo.Properties.Resources.resources
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\obj\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\bin\Debug\sysinfo.exe
+C:\Users\Kautzman\Documents\Visual Studio 2013\Projects\SysInfo\bin\Debug\sysinfo.pdb
+C:\Users\Kautzman\Desktop\SysInfo\obj\Debug\sysinfo.exe
+C:\Users\Kautzman\Desktop\SysInfo\obj\Debug\sysinfo.pdb
+C:\Users\Kautzman\Desktop\SysInfo\bin\Debug\sysinfo.exe
+C:\Users\Kautzman\Desktop\SysInfo\bin\Debug\sysinfo.pdb
+C:\Users\Kautzman\Desktop\SysInfo\obj\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\Kautzman\Desktop\SysInfo\obj\Debug\sysinfo.main.resources
+C:\Users\Kautzman\Desktop\SysInfo\obj\Debug\sysinfo.Properties.Resources.resources
+C:\Users\Kautzman\Desktop\SysInfo\obj\Debug\SysInfo.csproj.GenerateResource.Cache
